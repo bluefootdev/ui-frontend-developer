@@ -29,16 +29,16 @@ Você deve estruturar o layout responsivo disponível nesse link: http://bit.ly/
 
 ### O que nos impressionaria
 
-* Testes de aceitação
 * [BEM naming convention](http://getbem.com/naming/)
 * Aplicação de animações em css quando possível
-* Ver o código rodando live
+* Ver seu o código rodando live
 
 ### O que nós não gostaríamos
 
 * Descobrir que não foi você quem fez seu teste
 * Rodar seu teste e ver que está pela metade
 * Ver commits gigantes, sem mensagens ou com -m sem pé nem cabeça
+* Ver que você reaproveitou um monte de coisas de outros projetos antigos seus para ganhar tempo sem ganhar qualidade
 
 
 ## O que avaliaremos de seu teste
