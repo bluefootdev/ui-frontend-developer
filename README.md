@@ -1,4 +1,4 @@
-# Bluefoot DEV: Teste prático para Frontend Architect
+# Bluefoot DEV: Teste prático para UI Frontend-Developer
 
 
 ## Instruções
